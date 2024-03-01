@@ -11,7 +11,7 @@ public class Ex4 {
                 }
             }
             if(Prime) {
-                System.out.print(i + " ");
+                System.out.print(i + " - ");
             }
         }
     }
