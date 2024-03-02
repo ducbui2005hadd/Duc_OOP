@@ -4,9 +4,11 @@
  *---------------------------------------------------------------------------------------*/
 
 package com.mycompany.app;
+import com.mycompany.app.Week1_Code2.*;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello Remote World!");
-    }
+        Java_Each temp = new Java_Each();
+        temp.Duc4();
+}
 }
